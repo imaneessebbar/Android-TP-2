@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Capteurs 2</string>
+    <string name="chercher">Trouver</string>
+    <string name="ind"> Le capteur : %1$s est indisponible</string>
+    <string name="cap"> </string>
+    <string name="dis"> Le capteur : %1$s est disponible</string>
+    <string name="txt">Choisissez un capteur</string>
+    <string-array name="capteurs">
+        <item>TYPE_ACCELEROMETER</item>
+        <item>TYPE_LINEAR_ACCELERATION</item>
+        <item>TYPE_ORIENTATION</item>
+        <item>TYPE_GYROSCOPE</item>
+        <item>TYPE_LIGHT</item>
+        <item>TYPE_PRESSURE</item>
+        <item>TYPE_TEMPERATURE</item>
+        <item>TYPE_PROXIMITY</item>
+        <item>TYPE_GRAVITY</item>
+        <item>TYPE_MAGNETIC_FIELD</item>
+        <item>TYPE_ROTATION_VECTOR</item>
+        <item>TYPE_RELATIVE_HUMIDITY</item>
+        <item>TYPE_AMBIENT_TEMPERATURE</item>
+        <item>TYPE_MAGNETIC_FIELD_UNCALIBRATED</item>
+        <item>TYPE_GAME_ROTATION_VECTOR</item>
+        <item>TYPE_GYROSCOPE_UNCALIBRATED</item>
+        <item>TYPE_SIGNIFICANT_MOTION</item>
+        <item>TYPE_STEP_DETECTOR</item>
+        <item>TYPE_STEP_COUNTER</item>
+        <item>TYPE_GEOMAGNETIC_ROTATION_VECTOR</item>
+         <item>TYPE_HEART_RATE</item>
+
+        <item>TYPE_HEART_BEAT</item>
+        <item>TYPE_ACCELEROMETER_UNCALIBRATED</item>
+        <item>TYPE_POSE_6DOF</item>
+        <item>TYPE_STATIONARY_DETECT</item>
+
+        <item>TYPE_LOW_LATENCY_OFFBODY_DETECT</item>
+        <item>TYPE_MOTION_DETECT</item>
+        <item>TYPE_HINGE_ANGLE</item>
+    </string-array>
+    <integer-array name="ints">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>31</item>
+        <item>35</item>
+        <item>28</item>
+        <item>29</item>
+        <item>34</item>
+        <item>30</item>
+        <item>36</item>
+    </integer-array>
+</resources>
